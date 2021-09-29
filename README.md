@@ -1,2 +1,2 @@
 # doc
-[other](other.md)
+[Doxygen](doxygen/README.md)
