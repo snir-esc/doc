@@ -1,2 +1,2 @@
 # doc
-[other](other_file.md)
+[other](other.md)
