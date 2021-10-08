@@ -50,3 +50,6 @@ rm application-vnd.doxygen.xml
 rm application-vnd.doxygen.png
 rm doxygen48.png
 rm doxygen32.png
+
+# Pour la génération de pdf à partir de Latex
+sudo apt-get install texlive-latex-base texlive-font-utils texlive-lang-french texlive-fonts-recommended texlive-latex-extra
