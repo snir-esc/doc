@@ -4,8 +4,11 @@
 Aller dans Menu > Préférences > Réseau
 
 Sous serveur mandataire, choisir méthode Manuelle
+
 Configurer le proxy https : 172.16.0.1 port 3128
+
 Dans ignorer les hôtes, spécifier :
+
 localhost, 127.0.0.0/8, ::1, *.ir.lan, 192.168.0.0/16
 
 ## Configuration pour apt
