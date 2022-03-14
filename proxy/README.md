@@ -64,7 +64,8 @@ Si besoin, pour désactiver le proxy pour git :
 git config --global --unset http.proxy
 ```
 
-##Pour Python PIP
+## Pour Python PIP
+
 Utilisation du proxy pour une opération :
 
 ```
@@ -72,4 +73,5 @@ python3 -m pip install  --proxy http://172.16.0.1:3128  module
 ```
 
 Ressource :
+
 https://pip.pypa.io/en/stable/user_guide/#using-a-proxy-server
