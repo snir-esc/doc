@@ -19,7 +19,7 @@ sudo nano /etc/apt/apt.conf.d/proxy
 Ajouter le contenu :
 ```
 Acquire::https::Proxy "http://172.16.0.1:3128";
-Acquire::http::Proxy "http://aptcache.ir.lan:3142";
+Acquire::http::Proxy "http://aptcache.ir.lan:3128";
 Acquire::ftp::Proxy "http://172.16.0.1:3128";
 ```
 
